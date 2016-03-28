@@ -1,0 +1,61 @@
+{
+    "name": "ng-intl-tel-input",
+    "version": "1.0.0",
+    "description": "AngularJS directive implementing intl-tel-input (https://github.com/Bluefieldscom/intl-tel-input)",
+    "main": "dist/ng-intl-tel-input.min.js",
+    "scripts": {
+        "test": "grunt test",
+        "webdriver-update": "webdriver-manager update"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/smoshysmosh/ng-intl-tel-input.git"
+    },
+    "keywords": [
+        "ng-intl-tel-input",
+        "intl-tel-input",
+        "international",
+        "telephone",
+        "validator",
+        "angularjs"
+    ],
+    "author": "Ethan Pursley <ethan.k.pursley@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/smoshysmosh/ng-intl-tel-input/issues"
+    },
+    "homepage": "http://smoshysmosh.github.io/ng-intl-tel-input",
+    "devDependencies": {
+        "connect-modrewrite": "^0.9.0",
+        "grunt": "^0.4.5",
+        "grunt-contrib-clean": "^1.0.0",
+        "grunt-contrib-concat": "^1.0.0",
+        "grunt-contrib-connect": "^1.0.1",
+        "grunt-contrib-copy": "^1.0.0",
+        "grunt-contrib-jshint": "^1.0.0",
+        "grunt-contrib-uglify": "^1.0.1",
+        "grunt-contrib-watch": "^1.0.0",
+        "grunt-jscs": "^2.8.0",
+        "grunt-karma": "^0.12.2",
+        "grunt-newer": "^1.1.2",
+        "grunt-ng-annotate": "^2.0.1",
+        "grunt-protractor-runner": "^3.1.0",
+        "grunt-usemin": "^3.1.1",
+        "grunt-wiredep": "^2.0.0",
+        "jasmine-core": "^2.4.1",
+        "jshint": "2.9.1",
+        "jshint-stylish": "^2.1.0",
+        "karma": "^0.13.22",
+        "karma-chrome-launcher": "^0.2.3",
+        "karma-coverage": "^0.5.5",
+        "karma-firefox-launcher": "^0.1.7",
+        "karma-jasmine": "^0.3.8",
+        "karma-phantomjs-launcher": "^1.0.0",
+        "karma-spec-reporter": "0.0.24",
+        "phantomjs-prebuilt": "^2.1.7",
+        "protractor": "~3.2.2",
+        "serve-static": "^1.10.2",
+        "load-grunt-tasks": "^3.4.1",
+        "time-grunt": "^1.3.0"
+    }
+}
