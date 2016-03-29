@@ -2,6 +2,10 @@ machine:
     timezone: America/Los_Angeles
     node:
         version: 4.2.2
+general:
+    branches:
+        ignore:
+            - gh-pages
 dependencies:
     pre:
         - npm install -g bower grunt-cli
