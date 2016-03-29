@@ -1,0 +1,25 @@
+{
+  "name": "ng-intl-tel-input",
+  "homepage": "https://github.com/SmoshySmosh/ng-intl-tel-input",
+  "authors": [
+    "Ethan Pursley <ethan.k.pursley@gmail.com>"
+  ],
+  "description": "Github Pages",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.0",
+    "ng-intl-tel-input": "smoshysmosh-ng-intl-tel-input#^1.0.0"
+  }
+}
